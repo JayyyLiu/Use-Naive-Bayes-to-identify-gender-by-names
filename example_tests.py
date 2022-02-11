@@ -5,6 +5,7 @@
 """
 import numpy as np
 import random
+import traceback
 import sys
 from genTrainFeatures import genTrainFeatures
 from naivebayesPY import naivebayesPY
